@@ -1,4 +1,4 @@
-# Olá! Sou o Leonardo Cunha 
+# Hello! Sou o Leonardo Cunha 
 
 Programador apaixonado por aprender as mais diversas tecnologias, muitas por hobbie e diversão, outras por trabalho hahaha. \
 • Desenvolvimento Mobile - Back-End \
