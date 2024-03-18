@@ -1,9 +1,9 @@
 # Olá! Sou o Leonardo Cunha 
 
 Programador apaixonado por aprender as mais diversas tecnologias, muitas por hobbie e diversão, outras por trabalho hahaha. \
-• Desenvolvimento Mobile e Back-End \
-• Spring - Golang - Python - ReactNative \
-• Desenvolvimento Front? Me divirto.
+• Desenvolvimento Mobile - Back-End \
+• Spring - Golang - Python - ReactNative - Flutter \
+• Desenvolvimento Front
 
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
