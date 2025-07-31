@@ -1,7 +1,7 @@
 # Hello! Sou o Leonardo Cunha 
 
-QA and Development apaixonado por aprender as mais diversas tecnologias, muitas por hobbie e diversão, outras por trabalho hahaha. \
-• Quality - Selenium - Cypress - Kataloon
+QA and Development apaixonado por aprender as mais diversas tecnologias, muitas por hobbie e diversão, outras por trabalho. \
+• Quality - Selenium - Cypress - Kataloon \
 • Spring - C# - Golang - Python -  PHP \
 
 <div style="display: inline_block"><br>
