@@ -2,7 +2,7 @@
 
 QA and Development apaixonado por aprender as mais diversas tecnologias, muitas por hobbie e diversão, outras por trabalho. \
 • Quality - Selenium - Cypress - Kataloon \
-• Spring - C# - Golang - Python -  PHP \
+• Spring - C# - Golang - Python -  PHP 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" />
