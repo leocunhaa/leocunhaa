@@ -1,4 +1,4 @@
-# Hello! Sou o Leonardo Cunha 
+# Hello! Sou o Leo
 
 Apaixonado por aprender as mais diversas tecnologias, muitas por hobbie e diversão, outras por trabalho. \
 • SDET - Selenium - Cypress - Playwright \
