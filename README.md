@@ -1,11 +1,12 @@
 # Hello! Sou o Leonardo Cunha 
 
-QA and Development apaixonado por aprender as mais diversas tecnologias, muitas por hobbie e diversão, outras por trabalho. \
-• Quality - Selenium - Cypress - Kataloon \
-• Spring - C# - Golang - Python -  PHP 
+Apaixonado por aprender as mais diversas tecnologias, muitas por hobbie e diversão, outras por trabalho. \
+• SDET - Selenium - Cypress - Playwright \
+• Java - C# - Golang - Python -  PHP 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+  <img align="center" alt="icon-Playwright" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
   <img align="center" alt="icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="icon-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="icon-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  />
